@@ -2,27 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://databrb.com/2025/12/01/url/</loc>
+    <loc>https://databrb.com/2025/12/07/WD-harddisk-data-recovery-firmware-WD42PURU-78C4CY0-80-00A80-WD-WX42D833ZKHK-1000M/</loc>
     
-    <lastmod>2025-11-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://databrb.com/2025/12/01/test/</loc>
-    
-    <lastmod>2025-11-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://databrb.com/2025/12/01/My-New-Post/</loc>
-    
-    <lastmod>2025-11-30</lastmod>
+    <lastmod>2025-12-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,11 +22,46 @@
 
   <url>
     <loc>https://databrb.com/</loc>
-    <lastmod>2025-12-01</lastmod>
+    <lastmod>2025-12-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://databrb.com/tags/data-recovery/</loc>
+    <lastmod>2025-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://databrb.com/tags/wd/</loc>
+    <lastmod>2025-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://databrb.com/tags/firmware/</loc>
+    <lastmod>2025-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://databrb.com/tags/0001000M/</loc>
+    <lastmod>2025-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://databrb.com/tags/VeniceR-Plus-2-lite-plus/</loc>
+    <lastmod>2025-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
